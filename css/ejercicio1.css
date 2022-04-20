@@ -1,0 +1,31 @@
+/*Centro de biotecnologia agropecuario 
+Analisis y desarrollo de software 
+Ficha:24709780
+Autor:Paula Juliana Acosta Alarcon 
+fecha de creacion: 16 frebrero 2022
+fecha de actualizacion: 23 febrero 2022*/
+
+body {
+    background-color:gainsboro;
+} /*en este espacio quiero cambiar  el color de fondo de la pagina, para esto udo background*/
+
+#tit {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkblue
+} 
+
+
+.ADSO{
+    color: hotpink;
+}
+
+#container{
+    width: 500px;
+    height: 550px;
+    background-color: cadetblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+    /*en tit lo que hice fue cambiar el color de la linea de arriba del texto, luego cambie el color de la linea de abajocon p class 
+    cree el container lo queria de medidas de 9000px de ancho y 5500px de largo*/

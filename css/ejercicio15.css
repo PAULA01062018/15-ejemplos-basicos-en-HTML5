@@ -1,0 +1,24 @@
+/*Centro de biotecnologia agropecuario 
+Analisis y desarrollo de software 
+Ficha:24709780
+Autor:Paula Juliana Acosta Alarcon 
+fecha de creacion: 16 frebrero 2022
+fecha de actualizacion: 23 febrero 2022*/
+
+body{
+    background-color: lightcoral;
+}/*en este espacio quiero cambiar  el color de fondo de la pagina, para esto udo background*/
+
+#tit{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkmagenta;
+}
+
+#iguana{
+    width:750px;
+    height: 650px;
+    background-color: plum;
+    margin-left: auto;
+    margin-right: auto;
+}/*le di el tamaño de pixeles que queria para mi container el color y me lo ubicara automaticamente*/

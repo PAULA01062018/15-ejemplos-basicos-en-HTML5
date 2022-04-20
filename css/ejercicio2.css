@@ -1,0 +1,29 @@
+/*Centro de biotecnologia agropecuario 
+Analisis y desarrollo de software 
+Ficha:24709780
+Autor:Paula Juliana Acosta Alarcon 
+fecha de creacion: 16 frebrero 2022
+fecha de actualizacion: 23 febrero 2022*/
+
+body {
+    background-color: rgb(227, 227, 233);
+} /*quiero cambiarle el fondo del color de pantalla por azul oscuro lo hago con body- background color*/
+
+#tit {
+    font-size:medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkblue;
+} 
+
+.dos{
+    color:darkslategrey;
+} /*le di el color al subtitulo llendo a h2 de html asi: <h2 class="dos" y luego en la carpeta css coloque como lo nombre en html
+ adicionando un punto al inicio de la palabra y puse el color que desear*/
+
+ #Acosta{ 
+width: 800px;
+height: 600px;
+background-color: lightpink;
+margin-left: auto;
+margin-right: auto;
+ } /* aqui ubique el container del tamaño deseado le di un color y le dije al ordenador que lo ubicara*/

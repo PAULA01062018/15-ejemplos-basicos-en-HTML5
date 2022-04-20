@@ -1,0 +1,26 @@
+/*Centro de Biotecnologia Agropecuario (CBA)
+ADSO Analisis y desarrollo de software 
+Autor:Paula Juliana Acosta Alarcón
+ficha:2070980
+fecha de creacion:16/febrero/2022
+fecha de modificacion:23/febrero/2022*/
+
+body{
+    background-color: lightcoral;
+} /*asigno uhn color al fondo de mi trabajo*/
+
+#tit{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+}/*le coloco el tamaño de letra y tipo de letra ademas le asigno un color*/
+
+#fsvm{
+   width: 850px;
+   height: 550px;
+   background-color: cornflowerblue;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
